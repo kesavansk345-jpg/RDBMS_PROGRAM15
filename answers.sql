@@ -1,3 +1,5 @@
+create dadabase BB;
+use BB;
 Assume 40 marks is the pass mark.
 SET SERVEROUTPUT ON;
 DECLARE
